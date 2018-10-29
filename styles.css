@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;   
+    color: pink ;
+    margin-top: 20px;
+    background-color:black;
+    font-family: 'Spicy Rice', cursive;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+img { width:150px;
+border:dashed;
+}
+body{ 
+    background-color:grey;
+    }
